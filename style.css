@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	background-color: black;
+}
+
+.panel {
+	height: 100%;
+	flex: 1;
+	background-color: lightgrey;
+}
